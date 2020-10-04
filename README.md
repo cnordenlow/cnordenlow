@@ -2,6 +2,8 @@
 
 [![cnordenlow's github stats](https://github-readme-stats.vercel.app/api?username=cnordenlow)](https://github.com/cnordenlow/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnordenlow)](https://github.com/cnordenlow/github-readme-stats)
+
 <!--
 **cnordenlow/cnordenlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
