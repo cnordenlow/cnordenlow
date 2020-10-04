@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<img src="https://github.com/cnordenlow/cnordenlow/blob/main/sarek2.jpg">
+<img src="https://github.com/cnordenlow/cnordenlow/blob/main/sarek2.jpg" width="500" height="400">
 
 
-[![cnordenlow's github stats](https://github-readme-stats.vercel.app/api?username=cnordenlow)](https://github.com/cnordenlow/github-readme-stats width="500" height="400")
+[![cnordenlow's github stats](https://github-readme-stats.vercel.app/api?username=cnordenlow)](https://github.com/cnordenlow/github-readme-stats)
 
 
 
