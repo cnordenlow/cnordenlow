@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+<img src="https://github.com/cnordenlow/cnordenlow/blob/main/sarek.jpg">
+
+
 [![cnordenlow's github stats](https://github-readme-stats.vercel.app/api?username=cnordenlow)](https://github.com/cnordenlow/github-readme-stats)
 
-<img src="https://github.com/cnordenlow/cnordenlow/blob/main/sarek.jpg" width="30px">
 
 
 <!--
